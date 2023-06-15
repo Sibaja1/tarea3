@@ -1,0 +1,8 @@
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\LeerXML\obj\Debug\LeerXML.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\LeerXML\obj\Debug\LeerXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\LeerXML\obj\Debug\LeerXML.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\LeerXML\bin\Debug\LeerXML.exe.config
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\LeerXML\bin\Debug\LeerXML.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\LeerXML\bin\Debug\LeerXML.pdb
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\LeerXML\obj\Debug\LeerXML.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\LeerXML\obj\Debug\LeerXML.pdb
